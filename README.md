@@ -23,6 +23,8 @@ W trakcie nauki:
 
 ✓ - Java - programowanie obiektowe + interfejsy graficzne
 
+🌝 - Angielski - Aktualnie realizuje kurs b1+ 2x w tygodniu po którym planuje rozpocząć poziom B2 - w okolicy marca. Skupiam się na równi z nauką programowania nadrabiając wcześniejsze zaległości.
+
 🌟 Dodatkowe umiejętności:
 
 ✓ - Photoshop ( https://www.behance.net/klaudiuszpupiec)
