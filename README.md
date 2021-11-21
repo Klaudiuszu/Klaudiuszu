@@ -2,8 +2,6 @@
 
 Jestem Klaudiusz i planuje zostać junior Front-end developerem.
 
-github: https://github.com/Klaudiuszu?tab=overview&from=2021-09-01&to=2021-09-30
-
 Tech stack:
 
 🌝 - Front-end ( ~ 1,5 roku nauki )
