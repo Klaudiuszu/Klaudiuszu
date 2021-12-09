@@ -10,10 +10,12 @@ Tech stack:
 ✔ - JavaScript ES6+
 ✔ - GIT/Github
 ✔ - Task Runner
+✔ - Redux
+✔ - AJAX API
 
 W trakcie nauki:
 
-✎ - React & Redux + testy jednostkowe
+✎ - React
 ✎ - Webpack
 ✎ - TypeScript
 
