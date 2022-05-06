@@ -4,7 +4,7 @@ Nazywam się Klaudiusz i jestem junior frontend developerem :)
 
 Hobbistycznie prowadzę wykłady na temat architektury kresów wschodnich oraz o szkicu.
 
-github: https://github.com/Klaudiuszu?tab=overview&from=2021-09-01&to=2021-09-30 
+Linkedin: https://www.linkedin.com/in/klaudiusz-pupiec-710047206/
 
 Tech stack:
 
