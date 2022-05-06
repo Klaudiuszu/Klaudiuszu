@@ -1,33 +1,29 @@
 👋 Cześć! 👋
 
-Jestem Klaudiusz i planuje zostać junior Front-end developerem.
+Nazywam się Klaudiusz i jestem junior frontend developerem :) 
+
+Hobbistycznie prowadzę wykłady na temat architektury kresów wschodnich oraz o szkicu.
+
+github: https://github.com/Klaudiuszu?tab=overview&from=2021-09-01&to=2021-09-30 
 
 Tech stack:
 
-🌝 - Front-end ( ~ 1,5 roku nauki )
+🌝 - Front-end
 
-✔ - HTML & CSS & SCSS + bootstrap
-✔ - JavaScript ES6+
+✔ - HTML & CSS & SCSS + bootstrap /Handlebars
+✔ - JavaScript ES6 
 ✔ - GIT/Github
 ✔ - Task Runner
-✔ - Redux
 ✔ - AJAX API
+✔ - REDUX
+✔ - REACT
+✔ - WEBPACK
 
-W trakcie nauki:
+W trakcie nauki: 
 
-✎ - React
-✎ - Webpack
-✎ - TypeScript
+✎  - Testy jednostkowe
+✎  - TypeScript
+✎  - Zrealizowany niedawno kurs angielskiego - poziom b1+, aktualnie b2
 
 🌚 - Back-end ( podstawy )
-
-✓ - Java - programowanie obiektowe + interfejsy graficzne
-
-🌝 - Angielski - Aktualnie realizuje kurs b1+ 2x w tygodniu po którym planuje rozpocząć poziom B2 - w okolicy marca. Skupiam się na równi z nauką programowania nadrabiając wcześniejsze zaległości.
-
-🌟 Dodatkowe umiejętności:
-
-✓ - Photoshop ( https://www.behance.net/klaudiuszpupiec)
-✓ - Prowadzenie prelekcji ( https://www.behance.net/gallery/102221463/PRELEKCJE )
-✓ - Poczucie estetyki - student architektury oraz aktualnie architekt. Zwracam uwagę na detale, wraz ze wzrostem umiejętności chcę tworzyć wysokiej jakości interfejsy lub mieć mniejszy/większy wpływ na nie. Wcześniej przekładałem te idee w
-projekty jak i ich prezentacje (https://www.behance.net/gallery/97527607/CIAG-DALSZY-OSIEDLE )
+✔ - mySQL
