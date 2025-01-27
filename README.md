@@ -1,10 +1,8 @@
 👋 Cześć! 👋
 
-Nazywam się Klaudiusz i jestem junior frontend developerem :) 
+Nazywam się Klaudiusz i jestem MID frontend developerem :) 
 
 https://klaudio.netlify.app/
-
-Hobbistycznie prowadzę wykłady na temat architektury kresów wschodnich oraz o szkicu.
 
 Linkedin: https://www.linkedin.com/in/klaudiusz-pupiec-710047206/
 
@@ -25,8 +23,6 @@ Tech stack:
 W trakcie nauki: 
 
 ✎  - Testy jednostkowe
-
-✎  - Zrealizowany niedawno kurs angielskiego - poziom b1+, aktualnie b2
 
 🌚 - Back-end
 ✔ - mySQL
