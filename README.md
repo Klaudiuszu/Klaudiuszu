@@ -2,7 +2,7 @@
 
 I'm a **MID Frontend Developer** focused on building **modern and scalable frontend applications** for business users, primarily in the financial domain.
 
-I translate complex business requirements into clean, maintainable UI solutions and collaborate closely with **product managers, designers, and backend teams**.
+I translate complex business requirements into clean, maintainable UI solutions, **design reusable components using npm packages**, and collaborate closely with **product managers, designers, and backend teams**.
 
 ---
 
