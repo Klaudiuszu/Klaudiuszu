@@ -39,7 +39,7 @@ I translate complex business requirements into clean, maintainable UI solutions,
 - **Webpack**  
 - **AJAX / REST APIs**  
 - **Git / GitHub**  
-- **Task Runners**
+- **CI/CD**
 - **Unit Testing**
 
 ### Backend (Basics)
