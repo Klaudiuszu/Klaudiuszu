@@ -50,10 +50,10 @@ I translate complex business requirements into clean, maintainable UI solutions,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="20"/> 
 </p>
 
+- **Python** – assisted the backend team by **updating Swagger endpoints** and **debugging the application**
 - **Node.js**  
 - **Express.js**  
 - **MySQL**  
-- **Python** – assisted the backend team by **updating Swagger endpoints** and **debugging the application**
 
 ---
 
