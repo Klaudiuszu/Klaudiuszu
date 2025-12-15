@@ -1,4 +1,4 @@
-# Hi, I'm Klaudiusz
+# 👋 Hi, I'm Klaudiusz
 
 I'm a **MID Frontend Developer** focused on building **modern and scalable frontend applications** for business users, primarily in the financial domain.
 
@@ -16,20 +16,38 @@ I translate complex business requirements into clean, maintainable UI solutions 
 ## 🛠 Tech Stack
 
 ### Frontend
-- ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) **HTML, CSS, SCSS** *(Bootstrap, Handlebars)*  
-- ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) **JavaScript (ES6+)**  
-- ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) **React**  
-- ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) **TypeScript**  
-- ![Redux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg) **Redux**  
-- ![Webpack](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg) **Webpack**  
-- ![AJAX](https://img.icons8.com/ios-filled/50/000000/ajax.png) **AJAX / REST APIs**  
-- ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) **Git / GitHub**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="20"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="20"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" height="20"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="20"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="20"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="20"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" height="20"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" height="20"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="20"/> 
+</p>
+
+- **HTML, CSS, SCSS** *(Bootstrap, Handlebars)*  
+- **JavaScript (ES6+)**  
+- **React**  
+- **TypeScript**  
+- **Redux**  
+- **Webpack**  
+- **AJAX / REST APIs**  
+- **Git / GitHub**  
 - **Task Runners**
 
 ### Backend (Basics)
-- ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) **Node.js**  
-- ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) **Express.js**  
-- ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) **MySQL**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="20"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" height="20"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="20"/> 
+</p>
+
+- **Node.js**  
+- **Express.js**  
+- **MySQL**
 
 ### In Progress
 - *Unit Testing*
