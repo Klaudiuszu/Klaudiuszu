@@ -40,6 +40,7 @@ I translate complex business requirements into clean, maintainable UI solutions,
 - **AJAX / REST APIs**  
 - **Git / GitHub**  
 - **Task Runners**
+- **Unit Testing**
 
 ### Backend (Basics)
 <p>
@@ -53,9 +54,6 @@ I translate complex business requirements into clean, maintainable UI solutions,
 - **Express.js**  
 - **MySQL**  
 - **Python** – assisted the backend team by **updating Swagger endpoints** and **debugging the application**
-
-### In Progress
-- *Unit Testing*
 
 ---
 
