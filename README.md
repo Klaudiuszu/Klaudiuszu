@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Klaudiusz
+# Hi, I'm Klaudiusz
 
 I'm a **MID Frontend Developer** focused on building **modern and scalable frontend applications** for business users, primarily in the financial domain.
 
@@ -26,6 +26,8 @@ I translate complex business requirements into clean, maintainable UI solutions 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" height="20"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" height="20"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="20"/> 
+  <img src="https://cdn.jsdelivr.net/gh/tanstack/table@latest/media/tanstack-table.svg" alt="TanStack Table" height="20"/> 
+  <img src="https://raw.githubusercontent.com/pmndrs/jotai/main/logo.svg" alt="Jotai" height="20"/>
 </p>
 
 - **HTML, CSS, SCSS** *(Bootstrap, Handlebars)*  
@@ -33,6 +35,8 @@ I translate complex business requirements into clean, maintainable UI solutions 
 - **React**  
 - **TypeScript**  
 - **Redux**  
+- **Jotai**  
+- **TanStack Table**  
 - **Webpack**  
 - **AJAX / REST APIs**  
 - **Git / GitHub**  
@@ -43,11 +47,13 @@ I translate complex business requirements into clean, maintainable UI solutions 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="20"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" height="20"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="20"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="20"/> 
 </p>
 
 - **Node.js**  
 - **Express.js**  
-- **MySQL**
+- **MySQL**  
+- **Python** – assisted the backend team by **updating Swagger endpoints** and **debugging the application**
 
 ### In Progress
 - *Unit Testing*
@@ -64,9 +70,10 @@ I translate complex business requirements into clean, maintainable UI solutions 
   - Delivering new features
   - UI architecture and UX design
   - Collaborating with PMs (France 🇫🇷) and backend teams (Hong Kong 🇭🇰)  
+- Assisted backend team by **updating endpoints in Swagger** and **debugging application issues**  
 - Agile methodology: 2-week sprints, daily stand-ups, planning, refinements, retrospectives  
 
-**Tech:** React, TypeScript, MobX, Jotai, REST, WebSockets, SCSS, TanStack Table, PrimeReact, Azure DevOps
+**Tech:** React, TypeScript, MobX, Jotai, REST, WebSockets, TanStack Table, SCSS, PrimeReact, Azure DevOps, Python
 
 ---
 
@@ -84,7 +91,7 @@ I translate complex business requirements into clean, maintainable UI solutions 
 
 ## 🌍 Languages
 
-- **English — B2**
+- **English — B2/C1**
 
 ---
 
