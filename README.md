@@ -26,8 +26,7 @@ I translate complex business requirements into clean, maintainable UI solutions,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" height="20"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" height="20"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="20"/> 
-  <img src="https://cdn.jsdelivr.net/gh/tanstack/table@latest/media/tanstack-table.svg" alt="TanStack Table" height="20"/> 
-  <img src="https://raw.githubusercontent.com/pmndrs/jotai/main/logo.svg" alt="Jotai" height="20"/>
+  <img src="https://cdn.candycode.com/jotai/jotai-mascot.png" alt="Jotai" height="20"/>
 </p>
 
 - **HTML, CSS, SCSS** *(Bootstrap, Handlebars)*  
